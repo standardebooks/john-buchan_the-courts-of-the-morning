@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/john-buchan/the-courts-of-the-morning</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-01-01T09:01:00Z</dc:date>
+		<meta property="dcterms:modified">2025-01-01T09:01:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -49,15 +49,15 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A Scottish laird foments rebellion in a South American country threatened by a hostile regime.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;After Richard Hannay receives an approach from American diplomats regarding the disappearance of a wealthy industrialist, he in turn seeks the help of his friend Sandy Arbuthnot. Soon, however, Arbuthnot—Lord Clanroyden—himself goes missing. The story continues in the fictional country of Olifa, located somewhere along the west coast of South America. It transpires that the powerful head of an Olifan mining company is gradually enslaving the populace, and it appears that only guerilla warfare will save the country from rule under a ruthless tyrant.&lt;/p&gt;
-			&lt;p&gt;Some of &lt;a href="https://standardebooks.org/ebooks/john-buchan"&gt;John Buchan’s&lt;/a&gt; more famous works, like &lt;a href="https://standardebooks.org/ebooks/john-buchan/the-thirty-nine-steps"&gt;&lt;i&gt;The Thirty-Nine Steps&lt;/i&gt;&lt;/a&gt;, are best known as fast-paced thrillers. &lt;i&gt;The Courts of the Morning&lt;/i&gt; (the title refers to the name of the remote mountain headquarters of the resistance movement) contains plenty of excitement, but also more measured passages in which Buchan works out a particular military philosophy and an approach to international relations. Its accounts of military engagement owe something as well to his massive and carefully documented multi-volume history of the First World War.&lt;/p&gt;
-			&lt;p&gt;Eight years after the publication of &lt;i&gt;The Courts of the Morning&lt;/i&gt;, Buchan wrote a sequel, &lt;i&gt;The Island of Sheep&lt;/i&gt;, which would bring together his leading characters, Richard Hannay and Sandy Arbuthnot, for the last time.&lt;/p&gt;
+			&lt;p&gt;After Richard Hannay is approached by American diplomats regarding the disappearance of a wealthy industrialist, he in turn seeks the help of his friend Sandy Arbuthnot. Soon, however, Arbuthnot himself goes missing.&lt;/p&gt;
+			&lt;p&gt;The story continues in the fictional country of Olifa, located somewhere along the west coast of South America, where a powerful head of a mining company is gradually enslaving the populace. It seems that only guerrilla warfare will save the country from rule under a ruthless tyrant.&lt;/p&gt;
+			&lt;p&gt;Some of &lt;a href="https://standardebooks.org/ebooks/john-buchan"&gt;John Buchan’s&lt;/a&gt; more famous works, like &lt;a href="https://standardebooks.org/ebooks/john-buchan/the-thirty-nine-steps"&gt;&lt;i&gt;The Thirty-Nine Steps&lt;/i&gt;&lt;/a&gt;, are fast-paced thrillers. But while &lt;i&gt;The Courts of the Morning&lt;/i&gt; contains plenty of excitement, it also has more measured passages in which Buchan works out a particular military philosophy and an approach to international relations. Its accounts of military engagement also owe something to his massive and carefully-documented multi-volume history of the First World War.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20170332</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006059082</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">142310</meta>
+		<meta property="se:reading-ease.flesch">73.27</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Courts_of_the_Morning</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-buchan_the-courts-of-the-morning</meta>
 		<dc:creator id="author">John Buchan</dc:creator>
@@ -89,6 +89,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
