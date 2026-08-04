@@ -48,7 +48,7 @@
 		<meta property="term" refines="#subject-5">sh2008121384</meta>
 		<meta property="schema:genre">Adventure</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A Scottish laird foments rebellion in a South American country threatened by a hostile regime.</dc:abstract>
+		<meta property="schema:abstract">A Scottish laird foments rebellion in a South American country threatened by a hostile regime.</meta>
 		<dc:description>
 			&lt;p&gt;After Richard Hannay is approached by American diplomats regarding the disappearance of a wealthy industrialist, he in turn seeks the help of his friend Sandy Arbuthnot. Soon, however, Arbuthnot himself goes missing.&lt;/p&gt;
 			&lt;p&gt;The story continues in the fictional country of Olifa, located somewhere along the west coast of South America, where a powerful head of a mining company is gradually enslaving the populace. It seems that only guerrilla warfare will save the country from rule under a ruthless tyrant.&lt;/p&gt;
